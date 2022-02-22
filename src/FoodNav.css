@@ -1,0 +1,9 @@
+.FoodNav {
+	background-color: blue;
+}
+
+.FoodNav .NavLink {
+	color: white;
+	display: inline-block;
+	margin: 10px;
+}
